@@ -1,0 +1,6 @@
+[package]
+name = "bad-apple-parse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
